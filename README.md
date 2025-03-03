@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
 
 - **Frontend Technologies:**
   - React.js ⚛️
-  - JavaScript (JS) 📜
+  - JavaScript 📜
   - TypeScript 📘
   - HTML5 🏗️
   - CSS3 🎨
