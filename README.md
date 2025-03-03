@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello! I'm a Junior+ Frontend React Developer
 
-<!--
-**Aivanii/Aivanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a focus on creating beautiful and responsive web applications using modern frontend technologies. 🌟
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend Technologies:**
+  - React.js ⚛️
+  - JavaScript (JS) 📜
+  - TypeScript 📘
+  - HTML5 🏗️
+  - CSS3 🎨
+  
+- **Styling Frameworks:**
+  - Bootstrap 🧩
+  - Material UI 🎨
+  - Tailwind CSS 🌊
+  - SCSS 🧵
+
+- **Build Tools:**
+  - Vite ⚡
+  - Webpack ⚙️
+
+## 📚 Currently Learning
+
+I'm currently diving into **Next.js** 🚀 to enhance my skills in building server-side rendered applications and static websites.
+
+## 💼 Projects
+
+Check out my repositories to see the projects I've been working on! I love collaborating and learning new things, so feel free to reach out if you want to connect or work together! 🤝
+
+## 📫 Get in Touch
+
+- **Email:** [aivanellok@gmail.com](mailto:aivanellok@gmail.com)
+- **Telegram:** [@Aivanello](https://t.me/Aivanello)
+
+Thank you for visiting my profile! Let's build something amazing together! 💻✨
