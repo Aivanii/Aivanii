@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on creating beautiful and responsive web applications using modern frontend technologies.
 
-## 🛠Skills
+## Skills
 
 - **Frontend Technologies:**
   - React.js 
