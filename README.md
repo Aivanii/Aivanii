@@ -27,7 +27,7 @@ Check out my repositories to see the projects I've been working on! I love colla
 
 ## Get in Touch
 
-- **Email:** [aivanellok@gmail.com](mailto:aivanellok@gmail.com)
+- **Email:** [aivanellok@gmail.com](mailto:ivan.kiman.dev@gmail.com)
 - **Telegram:** [@Aivanello](https://t.me/Aivanello)
 
 Thank you for visiting my profile! Let's build something amazing together!
